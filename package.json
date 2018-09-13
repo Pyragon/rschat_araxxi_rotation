@@ -1,0 +1,19 @@
+{
+    "name": "araxxi_rotation",
+    "version": "1.0.0",
+    "description": "Araxxi Rotation module for RSChatAPI",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Pyragon/rschat_araxxi_rotation.git"
+    },
+    "author": "Pyragon",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Pyragon/rschat_araxxi_rotation/issues"
+    },
+    "homepage": "https://github.com/Pyragon/rschat_araxxi_rotation#readme"
+}
