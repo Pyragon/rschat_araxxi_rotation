@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/Pyragon/rschat_araxxi_rotation/issues"
     },
-    "homepage": "https://github.com/Pyragon/rschat_araxxi_rotation#readme"
+    "homepage": "https://github.com/Pyragon/rschat_araxxi_rotation#readme",
+    "dependencies": {
+        "googleapis": "^27.0.0"
+    }
 }
