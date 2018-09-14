@@ -75,11 +75,11 @@ var _lookup = () => {
     function getName(index) {
         switch (index) {
             case 1:
-                return 'Top';
+                return 'Minions';
             case 2:
-                return 'Middle';
+                return 'Acid Pool';
             case 3:
-                return 'Bottom';
+                return 'Darkness';
         }
         return index;
     }
